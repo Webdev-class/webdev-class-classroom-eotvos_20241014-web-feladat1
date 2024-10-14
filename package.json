@@ -1,0 +1,14 @@
+{
+  "name": "eotvos_egyedi",
+  "version": "1.0.0",
+  "description": "1. Hozz létre index.html, style.css, script.js file-t.",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
